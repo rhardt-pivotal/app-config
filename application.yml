@@ -1,4 +1,5 @@
 message: hello, world (application.yml git)
 app:
+  greeting:  Hello from config server!!!!
   generic:
     prop: generic-value

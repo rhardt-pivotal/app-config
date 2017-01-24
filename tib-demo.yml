@@ -1,0 +1,6 @@
+tibco:
+  ems:
+    url:  tcp://86.75.30.9
+    userid: uname_from_cfg_svr
+    pwd: pwd_from_cfg_svr
+    

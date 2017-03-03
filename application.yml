@@ -1,5 +1,0 @@
-message: hello, world (application.yml git)
-app:
-  greeting:  Changed Hello from config server!!!! Again!!!
-  generic:
-    prop: generic-value

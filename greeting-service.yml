@@ -1,6 +1,7 @@
 ---
 app:
   greeting: hello, world (git)
+  encrypted-greeting: '{cipher}AQBmAthIGAmPZ2kSS844TfiXQNNa58aJbab1B3UMK9fMdoGynv1W9B7rYqTnnl7X5qBclFNRIA81I1gSLI1yQ4ER/c0yZP1+SWUNMNOY4DvIxkq6yYUD+7CDKbrypm8Y+K3mmDoibFtDMusSZWqU9olCT0bk/zOpzdaSaCESBUgLWofh9jydTCQB5BCSutXuqmt7KhLpY1arx/UMHIKp4iMAbcsW7LzcSKF2A+ChcgirFlHfZPtDhKrxefdlaDJT06CTqO+wO5HGNrKCGHy0Roph4V/vef896smHwCuNazbjwLKI3bEumhj9ItJPiWV1nb52z4TDWTbZ5Rn/UPh67qgAWjkTbX3kBD23gHLNhlFEbMlKsKAZr/SsYQTwQwBxJWhVDjCSxrMqGSH5gHhaOzsx' 
 ---
 spring:
   profiles: boeing
